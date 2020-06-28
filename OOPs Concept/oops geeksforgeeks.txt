@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/inheritance-in-python/
+https://www.edureka.co/blog/stack-in-python/
