@@ -10,3 +10,5 @@ Navin raddy :[Python tutorial for Begineers]( https://www.youtube.com/watch?v=QX
 * 5.w3resource
 * 6.w3school
 And inside the code there also the link info
+* [Python(Another repo)](https://github.com/Mynuddin-dev/Practice-Python-02)
+
